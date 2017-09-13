@@ -1,1 +1,1 @@
-console.log("NPR script was executed!");
+alert("Welcome to uTile, please take advatange of our extension");
